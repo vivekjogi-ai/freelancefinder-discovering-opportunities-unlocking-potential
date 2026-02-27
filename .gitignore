@@ -20,3 +20,6 @@ yarn-error.log*
 
 # other
 coverage
+# large files / videos
+/Video Demo
+*.mp4
