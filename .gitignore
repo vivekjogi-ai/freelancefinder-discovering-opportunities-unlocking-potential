@@ -20,6 +20,5 @@ yarn-error.log*
 
 # other
 coverage
-# large files / videos
-/Video Demo
-*.mp4
+# large files / videos (handled via Git LFS)
+# leave Video Demo directory tracked via LFS
